@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIAKAD ESKUL - SMK Avicena Rajeg</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <iframe
+    src="https://script.google.com/macros/s/AKfycbw8h-el0W_pBLF26-ez07OUcUmtu7Va-kFRzCLpo-pely7m10oqyKez14TXtC1bS1cE/exec"
+    allow="camera; geolocation">
+  </iframe>
+
+</body>
+</html>
